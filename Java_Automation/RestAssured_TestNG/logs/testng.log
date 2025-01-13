@@ -1,0 +1,8 @@
+2025-01-12 20:13:48,345 [main] INFO  Listener.Listener - Test Started
+2025-01-12 20:13:52,222 [main] INFO  Listener.Listener - Test Success[TestClass name=class TestCases.TC1_Test]
+2025-01-12 20:13:52,229 [main] INFO  Listener.Listener - Test Started
+2025-01-12 20:13:52,933 [main] INFO  Listener.Listener - Test Success[TestClass name=class TestCases.TC1_Test2]
+2025-01-12 20:13:52,934 [main] INFO  Listener.Listener - Test Started
+2025-01-12 20:13:52,938 [main] INFO  Listener.Listener - Test Success[TestClass name=class Base.TestTestNg]
+2025-01-12 20:13:52,940 [main] INFO  Listener.Listener - Test Started
+2025-01-12 20:13:52,941 [main] INFO  Listener.Listener - Test Success[TestClass name=class Base.TestTestNg]
